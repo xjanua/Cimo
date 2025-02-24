@@ -34,3 +34,8 @@ dotnet ef migrations add InitialCreate
 dotnet ef database update
 
 dotnet run
+
+📌 5. Kiểm tra các api hiện có.
+http://localhost:5020/swagger/index.html
+
+Localhost+cổng tuỳ thuộc vào cổng bạn setup
